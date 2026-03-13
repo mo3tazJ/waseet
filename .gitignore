@@ -1,3 +1,18 @@
+# firebase keyfile
+alaa-firebase-adminsdk.json
+
+# Test files
+test_func.py
+tester.py
+tests.py
+test.py
+
+# Rest Test
+.rest_test - Local
+.rest_test - Local/
+.rest_test - Remote
+.rest_test - Remote/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
