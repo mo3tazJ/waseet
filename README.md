@@ -31,3 +31,10 @@ $ pip install -r requirements.txt
 $ cp .env.example .env
 ```
 Set your environment variables in the .env file. Like Django Secret Key.
+
+
+## Run the server
+use the following command to run the server
+```bash
+python manage.py runserver 0.0.0.0:8000
+```
